@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Abida",
+      "email": "2000",
+      "phone": "7896547890",
+      "id": 1
+    }
+  ],
+  "members": [
+   
+    {
+      "name": "Juveria Lambe",
+      "year": "2023",
+      "fmembers": "5",
+      "contact": "9076220879",
+      "alternatecon": "9867893759",
+      "bgroup": "A+",
+      "profession": "Frontend develope",
+      "gender": "Female",
+      "junior": "GJJSND",
+      "pob": "Mangaon",
+      "dob": "2023-02-22",
+      "age": "19",
+      "maritalstatus": "unmarried",
+      "anniversary": "Unmarried",
+      "address": "Devli, Mangaon,Raigarh",
+      "baptisim": "baptism of desire",
+      "id": "SXwkeZx"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
